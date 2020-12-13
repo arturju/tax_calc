@@ -6,10 +6,10 @@ Here are some images to wet your appetite. For full notebook and interactibility
 
 
 ### Percentage of Gross Income payed to taxes
-![Federal taxed owed as a function of income]('/img/federal_taxes.png')
+![Federal taxed owed as a function of income](/img/federal_taxes.png)
 
 ### California vs New York State tax
-![CA and NY]('/img/state_tax_ca_ny.png')
+![CA and NY](/img/state_tax_ca_ny.png)
 
 
 ---
